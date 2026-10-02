@@ -1,0 +1,6 @@
+{
+  "name": "ESP32-S3 Wireless AV Bridge Studio",
+  "description": "Wireless Webcam, Microphone & Speaker bridge between PC and Laptop via ESP32-S3 USB UVC/UAC composite device with Python streamer, Web serial & Google Drive sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
